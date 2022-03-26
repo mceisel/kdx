@@ -92,7 +92,7 @@ Passing `--with-extras` to `emanate` will add `txgen` to the list of binaries be
 
 **NOTE:** On LINUX systems, you need to have mosquitto and postgresql installed on the machine. This can be accomplished using aptitude, packman or other package managers:
 ```
-sudo apt-get install posgresql mosquitto
+sudo apt-get install postgresql mosquitto
 # or
 apk add postgresql mosquitto 
 ```
